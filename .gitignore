@@ -1,6 +1,6 @@
-# ignore the dataset
-dataset
+# Ignore the dataset
+datasets
 
-# ignore notebook checkpoints
-.ipynd_checkpoints
+# Ignore notebook checkpoints
+.ipynb_checkpoints
 
